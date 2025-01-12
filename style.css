@@ -1,0 +1,99 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:black;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+}
+h1{
+    color: #fff;
+
+}
+
+p{
+    color:#fff
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+}
+
+ main {
+    width: 50%;
+    display:flex;
+    flex-flow:column;
+    justify-items: center;
+    margin-bottom: 40px
+} 
+
+.content2{
+    display: flex;
+    justify-content: end;
+
+}
+
+.ski {
+    width: 180px;
+    margin-top: 6.67em;
+    margin-left: 50px;
+    height: 180px
+}
+
+.trex {
+    display:inline-block;
+    width: 50%;
+}
+
+.u{
+    width:60% ;
+    display: inline-block;
+}
+
+.logo{
+    width: 100%;
+}
+
+header{
+    display:flex;
+    justify-content: center;
+    background-color: #442827;
+}
+
+.content3{
+    display: flex;
+    justify-content: start;
+
+}
+footer{
+    background-color: #fff;
+    text-align: center;
+    width: 100%;
+}
+
+nav{
+    background-color: black;
+    display: flex;
+    justify-content: end;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    width: 90vw;
+
+}
+
+a{
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.content4{
+    display: flex;
+    justify-content: start;
+    margin-left: 50px;
+}
+
+.mwo>h1{
+    background-color: #fff;
+    color:black ;
+}
